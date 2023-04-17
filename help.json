@@ -1,0 +1,6 @@
+{
+    "--storage=<STORAGE_LINK>" : "Set the storage that will be used for command",
+    "--set=<NAME> <STORAGE_LINK>" : "Add Version PHP that will be used command",
+    "--use=<NAME>" : "Set PHP use that will be used command",
+    "--list" : "Show list PHP that will be used command"
+}
